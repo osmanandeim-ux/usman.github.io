@@ -1,0 +1,38 @@
+# Basic Site Info
+title: "Muhammad Usman Nadeem"
+description: "Data Science & AI Student | Web Developer from Dundee, Scotland"
+
+# Personal Information
+name: "Muhammad Usman Nadeem"
+email: "osmannadiim@gmail.com"
+phone: "+44 7513 212782"
+location: "Dundee, Scotland, UK"
+
+# Links
+linkedin: "https://linkedin.com/in/muhammad-usman-nadeem-ab7452290"
+github: "https://github.com/YOUR_GITHUB_USERNAME"
+cv: "https://drive.google.com/uc?export=download&id=1sTSR3qAbQsD5mXfcfhSgVECsM8YniF0S"
+photo: "https://i.postimg.cc/59QdryhS/Whats-App-Image-2025-10-23-at-04-36-27-e60bab0b.jpg"
+
+# Education
+education:
+  - "BSc (Hons) Data Science & Artificial Intelligence — University of Dundee (2025–2028)"
+  - "Higher Secondary School Certificate (Pre-Engineering) — DPS College for Boys, Okara (2021–2023)"
+
+# Skills
+skills:
+  - "Java"
+  - "HTML"
+  - "CSS"
+  - "JavaScript"
+  - "Data Structures & Algorithms"
+
+# Experience
+experience:
+  - "Web Development Intern — DotsBit Software Company (Jan 2024 – Apr 2025)"
+
+# Theme (choose minimal or any you want)
+theme: jekyll-theme-minimal
+
+# Footer
+footer: "© 2025 Muhammad Usman Nadeem | Designed with 💻 Passion for Technology & Learning"
